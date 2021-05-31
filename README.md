@@ -10,10 +10,11 @@ This project was carried out with the Python language.
 * Integrate Deep Learning algorithms that can be re-used by users who don't know how to program in Python.
 * Achieve all the pipeline of a data scientist : data acquisition, data processing, data analysis, create a model, test the model.
 * Use of Transfer Learning model (VGG and Inception)
+* Focus on the lane keeping.
 
-Main idea:
+Main idea of the lane keeping:
 
-![alt text](https://github.com/JulienChoukroun/Autonomous-car-driving/blob/main/Images/Test1.png "Test on computer")
+![alt text](https://github.com/JulienChoukroun/Autonomous-car-driving/blob/main/Images/LaneDetectionNvidia.png "Main idea lane keeping")
 
 Example of result on the computer:
 
