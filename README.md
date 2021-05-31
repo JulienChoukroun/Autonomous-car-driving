@@ -11,4 +11,8 @@ This project was carried out with the Python language.
 * Achieve all the pipeline of a data scientist : data acquisition, data processing, data analysis, create a model, test the model.
 * Use of Transfer Learning model (VGG and Inception)
 
-Example of result 
+Example of result on the computer:
+
+![alt text](https://github.com/JulienChoukroun/Face-Detection-Orientation-Recognition/blob/main/Images/videoTram6-1.png "Tram6-1")
+
+Example of result on the track:
